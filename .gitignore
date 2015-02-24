@@ -1,0 +1,3 @@
+*.suo
+src/packages/
+*.sln.DotSettings.user
